@@ -1,0 +1,63 @@
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\bin\Debug\App.xbf
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\bin\Debug\MainPage.xbf
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\bin\Debug\MyApp.exe
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\bin\Debug\resources.pri
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\bin\Debug\AppxManifest.xml
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\bin\Debug\MyApp.build.appxrecipe
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\App.g.i.cs
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\App.g.cs
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\MainPage.g.i.cs
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\MainPage.g.cs
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\App.xaml
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\App.xbf
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\MainPage.xaml
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\MainPage.xbf
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\MyApp.pdb
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\priconfig.xml
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\layout.resfiles
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\resources.resfiles
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\pri.resfiles
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\qualifiers.txt
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Barry Allen\Desktop\Project\StoreApp\MyStoreApp\MyApp\obj\Debug\ProjectArchitectures.txt
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\App.g.i.cs
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\App.g.cs
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\MainPage.g.i.cs
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\MainPage.g.cs
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\XamlTypeInfo.g.cs
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\App.xaml
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\App.xbf
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\XamlSaveStateFile.xml
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\MainPage.xaml
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\MainPage.xbf
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\MyApp.exe
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\bin\Debug\App.xbf
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\bin\Debug\MainPage.xbf
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\bin\Debug\MyApp.xr.xml
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\bin\Debug\MyApp.exe
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\bin\Debug\MyApp.pdb
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\bin\Debug\resources.pri
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\bin\Debug\AppxManifest.xml
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\bin\Debug\MyApp.build.appxrecipe
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\MyApp.pdb
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\priconfig.xml
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\priconfig.xml.intermediate
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\layout.resfiles
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\layout.resfiles.intermediate
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\resources.resfiles
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\resources.resfiles.intermediate
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\pri.resfiles
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\pri.resfiles.intermediate
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\qualifiers.txt
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\qualifiers.txt.intermediate
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\ProjectArchitectures.txt

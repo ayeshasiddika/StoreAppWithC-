@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-BJEVP47</Machine>
+    <WindowsUser>Wayne</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>84f1faf3-9cae-4ca5-ba1a-ed4ca4a451fc</PackageIdentityName>
+    <IntermediateOutputPath>D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>761518B4C4B70B3A41F8C5967C7BF854A0F1FC739C05491E10435A439CB35E14</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>84f1faf3-9cae-4ca5-ba1a-ed4ca4a451fc_1.0.0.0_neutral__scb0wp7brafa8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>84f1faf3-9cae-4ca5-ba1a-ed4ca4a451fc_scb0wp7brafa8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>84f1faf3-9cae-4ca5-ba1a-ed4ca4a451fc</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Barry Allen</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-09T06:19:22.014</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\bin\Debug\MyApp.exe">
+      <PackagePath>MyApp.exe</PackagePath>
+      <Modified>2018-05-07T21:34:15.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-09T06:15:31.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-07-07T15:43:17.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2018-05-07T21:34:08.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\bin\Debug\MyApp.xr.xml">
+      <PackagePath>MyApp.xr.xml</PackagePath>
+      <Modified>2018-05-07T21:34:08.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Lucky\C#\Project\C#\StoreApp\MyStoreApp\MyApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2018-05-07T21:34:28.354</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
